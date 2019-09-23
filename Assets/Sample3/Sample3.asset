@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Sample3
   m_EditorClassIdentifier: 
   MatchCameraFramerate: 1
-  PlaneFindingMode: 2
-  LightEstimationMode: 3
+  PlaneFindingMode: 0
+  LightEstimationMode: 0
   EnableCloudAnchor: 0
   AugmentedImageDatabase: {fileID: 0}
-  CameraFocusMode: 0
+  CameraFocusMode: 1
   AugmentedFaceMode: 2
